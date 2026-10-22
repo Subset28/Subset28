@@ -28,6 +28,13 @@
 
 - **Subscription and household iOS apps** (SwiftUI): a few more apps in progress under [OrbConcepts-Apps](https://github.com/OrbConcepts-Apps).
 
+## Also building
+
+- **Accessibility tech:** on-device vision and audio tools for people with low vision and hearing loss.
+- **Security automation:** PowerShell tooling for hardening and auditing Windows machines, with dry runs and rollback.
+- **Home server and AI tooling:** self-hosted media servers and automated content pipelines.
+- **iOS apps:** SwiftUI apps for finance, household tracking, and health.
+
 ## Stack
 
 Java · Python · PowerShell · Swift · TypeScript · React · Node.js · SQLite · Linux · Windows
