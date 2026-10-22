@@ -22,6 +22,7 @@
 | [**NutriSnap**](https://github.com/OrbConcepts-Apps/NutriSnap) | AI nutrition analysis for menus and labels, with allergy warnings. React, TypeScript, Capacitor. |
 | [**Subscription Canceller**](https://github.com/OrbConcepts-Apps/Subscription-Canceller) | Offline-first SwiftUI app that reminds you before subscriptions renew. |
 | [**CyberPatriot Linux Toolkit**](https://github.com/Subset28/Cyber-Patriot-Linux-Toolkit) | Linux hardening toolkit for Mint, Ubuntu, and Debian. Dry-run by default, with logs and backups. |
+| [**SAT Generator**](https://github.com/Subset28/sat-generator) | Local-first SAT practice app with full-length tests, score reports, and a static GitHub Pages demo. |
 | [**PC Optimizations**](https://github.com/Subset28/PC-Optimizations) | A documented Windows performance guide for gaming and multitasking. |
 
 ## Also built
