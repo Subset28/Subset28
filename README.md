@@ -17,7 +17,7 @@
 | Project | What it is |
 |---|---|
 | [**OmniSight**](https://github.com/OrbConcepts-Apps/OmniSight) | On-device assistive vision for iPhone (ARKit, CoreML YOLOv8, LiDAR). Speaks scene summaries to visually impaired users. **2nd place, TSA Software Development 2025.** |
-| [**Hecker TV**](https://github.com/Subset28/hecker-tv) | Custom Android TV home screen: app grid, weather, optional Plex "Continue watching" row, built-in installer. |
+| [**Hecker TV Ultra**](https://github.com/Subset28/hecker-tv) | Ultra-low latency Android TV home launcher (Armaan Tech Tips Edition). 5 ms frame latency, zero telemetry, electric-cyan HUD, instant TV inputs, and private Plex integration. |
 | [**DualSight**](https://github.com/Subset28/DualSight) | "Hearing through sight" engine. On-device-first, built in Swift. |
 | [**NutriSnap**](https://github.com/OrbConcepts-Apps/NutriSnap) | AI nutrition analysis for menus and labels, with allergy warnings. React, TypeScript, Capacitor. |
 | [**Subscription Canceller**](https://github.com/OrbConcepts-Apps/Subscription-Canceller) | Offline-first SwiftUI app that reminds you before subscriptions renew. |
